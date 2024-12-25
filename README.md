@@ -12,8 +12,12 @@ Course Instructors: Dr. Sema Alacam, Dr. Sehnaz Cenani Durmazoglu
 
 Code date: 16/03/2019
 
+Bugs Bunny is a fictional Looney Toons character and rights belongs to [Warner Bros](https://www.warnerbros.com/). Jpg taken from [Pinterest](https://tr.pinterest.com/). 
+
 [TR] Kodlar Processing 3 (3.5.3) ortamında yazılmıştır. Ek kütüphaneler gerekebilir. Çalıştırmadan önce lütfen kontrol edin.
 Bu kodlar İstanbul Teknik Üniversitesi MBL532 Mimari Tasarımda Grafik Programlama Dersi için yazılmıştır.
 Ders Eğitmenleri: Dr. Sema Alacam, Dr. Şehnaz Cenani Durmazoglu
 
 Kod tarihi: 16/03/2019
+
+Bugs Bunny, kurgusal bir Looney Toons karakteridir ve hakları [Warner Bros](https://www.warnerbros.com/)'a aittir. Jpg [Pinterest](https://tr.pinterest.com/)'ten alınmıştır.
