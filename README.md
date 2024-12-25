@@ -1,10 +1,10 @@
 # MBL532-MTGP2019-JPGDeformer
 
-[EN] Array based Processing3 JPG Deformation Tool. May not be finalized.
+[EN] Array based interactive Processing3 JPG Deformation Tool. May not be finalized.
 
-[TR] Dizi tabanlı Processing3 JPG Deformasyon Aracı. Nihai ürün olmayabilir.
+[TR] Dizi tabanlı interaktif Processing3 JPG Deformasyon Aracı. Nihai ürün olmayabilir.
 
-[![Image](https://i.hizliresim.com/bw7909s.JPG)](https://hizliresim.com/bw7909s)
+[![Image](https://i.hizliresim.com/b63x2nm.gif)](https://hizliresim.com/b63x2nm)
 
 [EN] Code written in Processing 3 (3.5.3) environment. May require additional libraries. Please check before run. 
 These codes written for Istanbul Technical University  MBL532 Graphics Programming in Architectural Design Course. 
